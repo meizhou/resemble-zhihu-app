@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" 
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:paddingBottom="5dp"
+	android:paddingLeft="10dp"
+	android:paddingRight="10dp"
+	android:background="@drawable/list_view"
+	android:gravity="center_vertical">
+	<RelativeLayout 
+	    android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:background="#ffffffff"
+		android:padding="15dp"
+	>
+	    <TextView 
+	    android:id="@+id/post_list_text" 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:textColor="#FF000000"
+		android:textSize="18sp" 
+		android:lineSpacingMultiplier="1.3"
+		/>
+		<ImageView 
+		    android:id="@+id/post_list_image" 
+			android:layout_width="100dp"
+			android:layout_height="80dp" 
+			android:layout_alignParentRight="true"
+			android:contentDescription="@string/post_list_view_image"
+			android:src="@drawable/new01"
+			android:scaleType="fitXY"
+			/>
+	</RelativeLayout>
+	
+</LinearLayout>

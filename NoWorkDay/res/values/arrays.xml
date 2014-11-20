@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menuList">
+        <item>首页</item>
+        <item>主题日报</item>
+        <item>我的收藏</item>
+        <item>消息</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="testList">
+        <item>2014年汽车媒体行业会发生什么变化，比如汽车之家，搜狐汽车，易车网的格局会不会被打破？</item>
+        <item>如何做一个好的职场新人？</item>
+        <item>金庸小说中不可能互相成为朋友的主角是哪些？</item>
+        <item>想去南极旅游，看了很多攻略，都说德雷克海峡晕船比较厉害，有没有去南极旅行不晕船的玩法？</item>
+        <item>流落在北京上海的 90一代的未来在哪儿？</item>
+        <item>如果一个人的死能拯救成千上万的人，那该不该剥夺他的生命？</item>
+    </string-array>
+</resources>

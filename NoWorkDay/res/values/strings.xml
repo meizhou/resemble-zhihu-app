@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoWorkDay</string>
+    <string name="header_name">知乎日报</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_login">登陆账号</string>
+    <string name="menu_management">主题日报</string>
+    <string name="menu_collect">我的收藏</string>
+    <string name="menu_message">消息</string>
+    <string name="main_news_text">今日新闻</string>
+    <string name="post_list_view_image">postListViewImage</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+</resources>
